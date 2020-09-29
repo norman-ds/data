@@ -1,21 +1,22 @@
-Alle Datensätze, die im Puntaminar-Artikel ["Die Zahl der Toten"]() (April 2020) und im Artikel ["Die Zahl der toten Senioren"](m) (Mai 2020) verwendet wurden.
+This folder contains the primary datasets used in Puntaminar artikels ["Die Zahl der Toten"](https://puntaminar.ch/de/2020/04/22/die-zahl-der-toten/) (April 2020) and ["Die Zahl der toten Senioren"](https://puntaminar.ch/de/2020/05/05/tote-senioren/) (Mai 2020).
 
-Die Daten werden nie aktualisiert.
+The data will never be updated.
 
-Unten finden Sie die Datensatzbeschreibung **Metadaten**.
+Below you'll find metadata.
 
 ## regionCH.csv
 
-26 Kantone und 1 Land mit Namen und Kurzzeichen
+26 cantons und one country
 
-- **Quelle(n) & Methoden**: [puntaminar gmbh](https://puntaminar.ch)
-- **Erstellungs Datum**: April 2020
-- **Kontakt**: [Norman Bieri](mailto:norman@puntaminar.ch)
-- **Datensatz (Zeilen)**: Jede Zeile entspricht einem Kanton oder Land 
-- **Variablen (Spalten)**:
+- **Source(s) & Methodology**: [puntaminar gmbh](https://puntaminar.ch)
+- **Last Modified**: April 2020
+- **Contact Information**: [Norman Bieri](mailto:norman@puntaminar.ch)
+- **Observations (Rows)**: Jede Zeile entspricht einem Kanton oder Land 
+- **Variables (Columns)**:
+
 
 | Header                    | Description                                            | Data Type                   |
 | ------------------------- | ------------------------------------------------------ | --------------------------- |
-| `geo`                     | geografisches Kurzzeichen                              | text                        |
-| `kanton`                  | Kantonskurzzeichen                                     | text                      |
-| `kanton2`                 | Kantonsnamen (deutsch)                                 | text                        |
+| `geo`                     | geographical code.                                     | text                        |
+| `kanton`                  | cantonal abbreviation                                  | text                      |
+| `kanton2`                 | name of canton                                         | text                        |
