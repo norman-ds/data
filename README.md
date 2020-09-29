@@ -1,6 +1,6 @@
 # Data sets
 
-Data sets created for stories on puntaminar, open to the public.
+Data sets created for stories on [puntaminar](https://puntaminar.ch), open to the public.
 
 | puntaminar Story Title | Publish Date | Data Update Frequency | Keywords | Data
 |---|---|---|---|---|
